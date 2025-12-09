@@ -9,7 +9,8 @@ users, and managing sales history details.
 
 [Introduction Video](video_resource/Diamond%20Store.mp4)
 
-## SRC Document ## [Click Here](docs/SRS_doc.pdf)
+## SRC Document ## 
+[Click Here](docs/SRS_doc.pdf)
 
 # Author
 Piyumi Premachandra
