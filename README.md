@@ -7,7 +7,7 @@ providing feedback, and maintaining their profiles. After sign-in to the system 
 products. Administrators have additional capabilities includes managing products, managing 
 users, and managing sales history details. 
 
-![Video] (video_resource/Diamond Store.mp4)
+[Introduction Video](video_resource/Diamond%20Store.mp4)
 
 ## SRC Document ## [Click Here](docs/SRS_doc.pdf)
 
